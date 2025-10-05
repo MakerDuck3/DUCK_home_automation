@@ -11,3 +11,5 @@ And if you want to customize your system, use the BLEND file.
 And if you like it - please don't eat ducks.
 
 Thank you - JTF labs (MakerDuck3)
+
+A zdravím, pokud jste se sem dostali z Makerfairu :)
